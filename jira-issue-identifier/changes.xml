@@ -1,0 +1,9 @@
+<changes><comment>MAP-793: Added logic so out of order transactions get a sticky header
+</comment><comment>MAP-922 Remove sorting of transactions in Account Detail #ios
+</comment><comment>Change the UIA strategy again in attempt to speed up the tests #ios
+</comment><comment>MAP-784 add preloadOnDemand properties to pages [portal export]
+</comment><comment>MAP-79 Bug fix with the cell state being incorrecly set #ios
+</comment><comment>MAP-784 add preloadOnDemand properties to pages [portal export]
+</comment><comment>MAP-784 notify mobile sdk widget is done loading
+</comment><comment>MAP-79 fix mock data #android
+</comment></changes>
